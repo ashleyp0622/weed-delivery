@@ -1,0 +1,8 @@
+{
+  "name": "cusbuds",
+  "app_id": "a47997f0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
